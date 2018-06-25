@@ -4,6 +4,8 @@ var url = 'http://api.icndb.com/jokes/random';
 var button = document.getElementById('get-joke');
 var paragraph = document.getElementById('joke');
 
+paragraph.innerHTML = 'Click on the button and have a good time!';
+
 button.addEventListener('click',function () {
     getJoke();
 });
