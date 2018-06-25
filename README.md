@@ -10,4 +10,4 @@ In this task I use HTTP methods to download some joke from server.
 I used package.json and task runner.
 
 ## TECHNOLOGIES 
-The project was created based on HTML,SCSS,CSS,JavaScript.
+The project was created based on HTML,SCSS,CSS,JavaScript,AJAX.
